@@ -1,4 +1,4 @@
-booooooooooo
+Pretty Title
 ========
 
 Test repo for git demo
